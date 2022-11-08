@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dc833b2-2d8b-45ef-b2a0-7293b84113e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/Boj13397.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9dc833b2-2d8b-45ef-b2a0-7293b84113e7" name="Changes" comment="boj 13397 구간나누기 2">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
     "Project.color": "2ccdff",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -53,8 +53,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667883856111</updated>
-      <workItem from="1667883857245" duration="732000" />
+      <workItem from="1667883857245" duration="1500000" />
     </task>
+    <task id="LOCAL-00001" summary="boj 13397 구간나누기 2">
+      <created>1667884660897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667884660897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="boj 13397 구간나누기 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj 13397 구간나누기 2" />
   </component>
 </project>
