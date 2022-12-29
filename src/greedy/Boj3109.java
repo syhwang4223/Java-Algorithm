@@ -14,7 +14,7 @@ public class Boj3109 {
     static int answer;
     static int[][] directions = {{-1, 1}, {0, 1}, {1, 1}}; // 대각선 위, 오른쪽, 대각선 아래
 
-    // 그리디 + dfs
+    // 그리디 + graph.dfs
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine());

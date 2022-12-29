@@ -1,4 +1,4 @@
-package bfs;
+package graph.bfs;
 
 import java.io.BufferedReader;
 import java.io.IOException;
